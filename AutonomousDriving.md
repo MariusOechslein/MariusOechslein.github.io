@@ -8,4 +8,4 @@ For training the donkey-car simulator is used. Training in an simulator has mult
 First you don't damage the real car when driving against a wall.
 
 ## About me
-https://mariusoechslein.github.io/
+[About me](https://mariusoechslein.github.io/)
