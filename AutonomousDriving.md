@@ -5,7 +5,7 @@ The training is done with Reinforcement Learning within a simulation environment
 The real driving is done on waveshare mat with a simple O-shaped track.
 Here's a video of the end result: 
 
-https://github.com/MariusOechslein/MariusOechslein.github.io/assets/67323507/c96bf23c-c210-4d42-97ee-cfd6dd95bd84
+[Jetracer Autonomous Driving video](https://github.com/MariusOechslein/MariusOechslein.github.io/assets/67323507/c96bf23c-c210-4d42-97ee-cfd6dd95bd84)
 
 This blog post covers the most important components we implemented in order to make the car drive autonomously.
 At the end I will also discuss the limitations of this approach.
