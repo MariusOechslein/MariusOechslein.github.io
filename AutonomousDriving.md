@@ -1,4 +1,4 @@
-# Autonomous driving
+# Autonomous driving //Blog post is under construction
 
 In this project, I trained a Jetracer car to drive fully autonomously around a track in real life. 
 The training is done with Reinforcement Learning within a simulation environment.
