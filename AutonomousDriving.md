@@ -75,7 +75,7 @@ For training the donkey-car simulator is used. Training in an simulator has mult
 First you don't damage the real car when driving against a wall.
 
 ## Resources
-
+- Variational Autoencoder paper: Kingma, D. P., & Welling, M. (2013). Auto-encoding variational bayes. arXiv preprint arXiv:1312.6114.
 - Variational Autoencoder: https://www.ibm.com/de-de/topics/autoencoder
 
 ## About me
